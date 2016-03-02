@@ -29,9 +29,5 @@ since it would be much easier to fix them or restore a previous working version 
 
 Improve efficiency during software development.
 
-7) What happens when you initialize a repository? Why do you need to do it?
-
-the git program creates a file that records all the commits recorded in the repo from that point on.
-Unless the repo is initialized, you just have a normal folder.
 
 
