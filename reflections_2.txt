@@ -11,4 +11,7 @@ Staging area allows for changes to be tracked without being committed. It allows
 
 By only committing one file that has been altered at a time. In the case of multiple files being linked to one logical change, more than 1 file can be committed from the staging area.
 
+10) What are some situations when branches would be helpful in keeping your history organized? How would branches help?
+
+When new features are being created in an app (features which perhaps don't have any interdependencies). Branches would allow these features to be developed independently and by several different developers without creating too many clashes or confusion.
 
