@@ -1,0 +1,37 @@
+1) How did viewing a diff between two versions help you spot the bug?
+
+It drew immediate attention to possible lines that could contain the bug. After that it was just a process of elimination.
+
+2) What do you think are the pros and cons of manually choosing when to create a commit, like you do in Git, vs having versions automatically saved, like Google Docs does?
+
+pro's:
+More meaningful purpose behind each version
+easier to find bugs/differences between versions
+
+con's:
+easy to forget to save
+
+3) Why do you think some version control systems, like Git, allow saving multiple files in one commit, while others, like Google Docs, treat each file separately?
+
+Google docs for example, only saves the document that is currently being worked on. 
+Git does not see files as being separate - it tracks changes universally between commits unless otherwise told.
+
+4) How can you use the commands git log and git diff to view the history of files?
+
+git log - will show you history of commits, or a subset thereof if a search function is used
+git diff - will compare 2 different versions of files and can help to pick up differences.
+
+5) How might using version control make you more confident to make changes that could break something?
+
+since it would be much easier to fix them or restore a previous working version than without version control.
+
+6) Now that you have your workspace set up, what do you want to try using Git for?
+
+Improve efficiency during software development.
+
+7) What happens when you initialize a repository? Why do you need to do it?
+
+the git program creates a file that records all the commits recorded in the repo from that point on.
+Unless the repo is initialized, you just have a normal folder.
+
+
