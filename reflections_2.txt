@@ -1,0 +1,9 @@
+7) What happens when you initialize a repository? Why do you need to do it?
+
+The git program creates a file that records all the commits recorded in the repo from that point on.
+Unless the repo is initialized, you just have a normal folder.
+
+8) How is the staging area different from the working directory and the repository? What value do you think it offers?
+
+Staging area allows for changes to be tracked without being committed. It allows us a chance to stop tracking a file if we choose not to commit.
+
