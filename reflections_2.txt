@@ -15,3 +15,9 @@ By only committing one file that has been altered at a time. In the case of mult
 
 When new features are being created in an app (features which perhaps don't have any interdependencies). Branches would allow these features to be developed independently and by several different developers without creating too many clashes or confusion.
 
+11) How do the diagrams help you visualize the branch structure?
+
+It helps to see where new branches were changed and how many different features have been added to the other branches since then.
+ie it helps to guage how different each branch is
+Lets us see how many different features there are, how diverse and complex the code base has become
+
