@@ -7,3 +7,8 @@ Unless the repo is initialized, you just have a normal folder.
 
 Staging area allows for changes to be tracked without being committed. It allows us a chance to stop tracking a file if we choose not to commit.
 
+9) How can you use the staging area to make sure you have one commit per logical change?
+
+By only committing one file that has been altered at a time. In the case of multiple files being linked to one logical change, more than 1 file can be committed from the staging area.
+
+
