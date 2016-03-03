@@ -26,3 +26,11 @@ Lets us see how many different features there are, how diverse and complex the c
 We are able to combine to separate/different pieces of work into one more complete body.
 They are represented in the graph as one branch that at some stage forks and then rejoins again, because they both derived from the same original source code.
 
+13) What are the pros and cons of Git’s automatic merging vs. always doing merges manually?
+
+Pro's:
+time saver
+
+Con's:
+possible compromisation of code integrity
+
