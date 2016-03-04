@@ -17,3 +17,9 @@ Forks are copies of github repositories, within github, and are different to clo
 
 Master and origin/master can be merged at any time (providing the code has not diverged too much).
 
+18) How would you collaborate without using Git or GitHub? What would be easier, and what would be harder?
+
+Alternative to GitHub would be to share files through a program like dropbox.
+It would be more difficult to pick up changes in updated versions of the files, and hence it would be more difficult to resolve any conflicts.
+I am not sure what would be easier in this situation.
+
