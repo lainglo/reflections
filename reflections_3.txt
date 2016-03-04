@@ -13,4 +13,7 @@ Branches are part of a repository.
 Clones are copies of repositories that are linked remotely back to the original repository from which they were copied.
 Forks are copies of github repositories, within github, and are different to clones since there is no remote to the original added. If a forked repository is cloned to a local repo, then it becomes the origin.
 
+17) What is the benefit of having a copy of the last known state of the remote stored locally?
+
+Master and origin/master can be merged at any time (providing the code has not diverged too much).
 
