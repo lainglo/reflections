@@ -7,3 +7,10 @@ When you are working on one project via multiple machines, or with multiple peop
 There might be clashes that you only want to deal with once you are finished developing a certain feature or piece of code.
 You might be developing your own personal version of the program in which case you would not want to pull any changes from the remote.
 
+16) Describe the differences between forks, clones, and branches. When would you use one instead of another?
+
+Branches are part of a repository.
+Clones are copies of repositories that are linked remotely back to the original repository from which they were copied.
+Forks are copies of github repositories, within github, and are different to clones since there is no remote to the original added. If a forked repository is cloned to a local repo, then it becomes the origin.
+
+
